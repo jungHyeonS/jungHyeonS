@@ -5,7 +5,7 @@
 MAU 50만+ 심리테스트 플랫폼, MAU 60만+ 게임 어시스턴트 데스크톱 앱, EdTech SaaS 등 다양한 규모의 서비스를 설계·개발·운영해 왔습니다.
 
 ### Tech Stack
-`React` `Next.js` `TypeScript` `Node.js` `Nest.js` `Electron` `Grafana` `Loki` `AWS` `OCI`  `OCI`
+`React` `Next.js` `TypeScript` `Node.js` `Nest.js` `Electron` `Grafana` `Loki` `AWS` `OCI`
 
 ### Highlights
 - 정적 자산 CDN 분리 배포로 캐시 Hit율 55% → 99.96% 달성, 서버 부하 절감
